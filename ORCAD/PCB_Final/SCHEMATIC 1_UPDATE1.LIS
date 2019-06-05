@@ -1,0 +1,85 @@
+AutoECO Report
+FILE-A: D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1_UPDATE1.MAX
+FILE-B: D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint VRES10
+Adding package HEADER_16
+Adding package POT
+ERROR: Pin "7" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "8" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "9" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "10" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "11" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "12" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "13" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "14" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "15" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "16" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+Adding component R9
+Net N02303 renamed to N03303
+Adding net N03460
+Net N02482 renamed to N03495
+Net N02387 renamed to N03383
+Adding net N03418
+Net N02336 renamed to N03341
+Net N02421 renamed to N03676
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 7
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 8
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 9
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 10
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 16
+ERROR: Component R1 (with fp AX/RC05_R1) has no pin 3
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 15
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 13
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 11
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 12
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 14
+Deleting R2.2 from net N00181
+Adding R3.2 to net N00181
+Deleting R6.2 from net N00255
+Adding R8.2 to net N00255
+Deleting R1.1 from net N00282
+Adding R2.1 to net N00282
+Deleting R6.1 from net N00339
+Adding R7.1 to net N00339
+Deleting R1.2 from net N00391
+Adding R2.2 to net N00391
+Deleting R4.2 from net N00522
+Deleting R5.1 from net N00522
+Adding R6.1 to net N00522
+Adding R5.2 to net N00522
+Deleting R8.2 from net N00588
+Adding J2.2 to net N00588
+Adding R1.1 to net N00588
+Adding R9.2 to net N00588
+Deleting R3.2 from net N00636
+Adding R4.2 to net N00636
+Deleting R5.2 from net N00686
+Adding R6.2 to net N00686
+Deleting R4.1 from net N00688
+Adding R5.1 to net N00688
+Deleting R3.1 from net N00715
+Adding R4.1 to net N00715
+Deleting R7.1 from net N00736
+Adding J2.1 to net N00736
+Adding J2.5 to net N00736
+Adding R8.1 to net N00736
+Adding J8.2 to net N00736
+Deleting R2.1 from net N00890
+Adding R3.1 to net N00890
+Deleting R8.1 from net N01521
+Adding R9.1 to net N01521
+Deleting J2.6 from net N03303
+Deleting J2.5 from net N03341
+Deleting J2.4 from net N03383
+Deleting U2.24 from net N03676
+Adding R1.2 to net N03676
+Deleting J2.1 from net N03495
+Adding J2.6 to net N03495
+Adding J2.4 to net N03460
+Adding U2.23 to net N03460
+Adding U2.24 to net N03418
+Deleting net N02455
+Deleting net N00174
+*EOF*
+21 errors found

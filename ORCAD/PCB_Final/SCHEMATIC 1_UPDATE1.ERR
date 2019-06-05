@@ -1,0 +1,25 @@
+AutoECO Error Report
+FILE-A: D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1_UPDATE1.MAX
+FILE-B: D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1.MNL
+ERROR: Pin "7" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "8" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "9" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "10" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "11" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "12" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "13" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "14" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "15" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Pin "16" in package HEADER_16 wasn't defined by footprint BLKCON.100/VH/TM1SQ/W.100/6_J2
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 7
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 8
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 9
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 10
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 16
+ERROR: Component R1 (with fp AX/RC05_R1) has no pin 3
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 15
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 13
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 11
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 12
+ERROR: Component J2 (with fp BLKCON.100/VH/TM1SQ/W.100/6_J2) has no pin 14
+21 errors found
