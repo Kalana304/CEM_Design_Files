@@ -106,33 +106,11 @@
     (FileView
       (Path "Design Resources")
       (Path "Outputs")
-      (Select "Design Resources"
-         "D:\Shechem\Documents\OneDrive\Documents\Semester 5\Electronic Design Realization\ORCAD\PCB_Final\schematic 1.dsn"))
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 640 556 -8 -31 0 200 0 363"))
-      (Tab 0))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 182 1251 182 584")
-        (Scroll "0 0")
-        (Zoom "100")
-        (Occurrence "/Receiver"))
-      (Path
-         "D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1.DSN")
-      (Schematic "RE")
-      (Page "PAGE1"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 2 1 0 556 -8 -31 111 1205 67 465")
-        (Scroll "0 0")
-        (Zoom "66")
-        (Occurrence "/"))
-      (Path
-         "D:\SHECHEM\DOCUMENTS\ONEDRIVE\DOCUMENTS\SEMESTER 5\ELECTRONIC DESIGN REALIZATION\ORCAD\PCB_FINAL\SCHEMATIC 1.DSN")
-      (Schematic "SCHEMATIC1")
-      (Page "PAGE1"))))
+        (Placement "44 2 3 640 556 -8 -31 0 200 0 363"))
+      (Tab 0)))
+  (MPSSessionName "CPN"))
